@@ -1,0 +1,8 @@
+C:\Users\НЮ\source\repos\skobki\skobki\bin\Debug\skobki.exe.config
+C:\Users\НЮ\source\repos\skobki\skobki\bin\Debug\skobki.exe
+C:\Users\НЮ\source\repos\skobki\skobki\bin\Debug\skobki.pdb
+C:\Users\НЮ\source\repos\skobki\skobki\obj\Debug\skobki.csproj.AssemblyReference.cache
+C:\Users\НЮ\source\repos\skobki\skobki\obj\Debug\skobki.csproj.SuggestedBindingRedirects.cache
+C:\Users\НЮ\source\repos\skobki\skobki\obj\Debug\skobki.csproj.CoreCompileInputs.cache
+C:\Users\НЮ\source\repos\skobki\skobki\obj\Debug\skobki.exe
+C:\Users\НЮ\source\repos\skobki\skobki\obj\Debug\skobki.pdb
